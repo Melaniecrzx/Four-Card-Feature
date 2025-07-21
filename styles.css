@@ -42,7 +42,7 @@ body {
     color: var(--grey500);
     justify-content: center;
     align-items: center;
-    margin-block: 6.375rem 10.188rem;
+    padding-block: 6.375rem 10.188rem;
 }
 .title_wrapper {
     display: flex;
